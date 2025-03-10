@@ -1,4 +1,4 @@
-### Task: Library Management System (3NF)
+### Library Management System (3NF)
 
 Design a relational database for a simple library system that stores information about books, authors, members, and borrowings. The system should track:
 
